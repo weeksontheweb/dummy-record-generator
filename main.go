@@ -76,6 +76,8 @@ func main() {
 				fmt.Printf("Postcode:\t%s\n", fake.PostCode())
 				fmt.Printf("State:\t\t%s\n", fake.State())
 				fmt.Printf("Country:\t%s\n", fake.Country())
+				fmt.Printf("Home Phone:\t%s\n", fake.PhoneNumber())
+				fmt.Printf("Mobile Phone:\t%s\n", fake.CellPhoneNumber())
 				fmt.Println()
 			}
 
