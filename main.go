@@ -82,7 +82,8 @@ func main() {
 				}
 			}
 
-			fmt.Printf("Records successfully produced: %d\n", successCount)
+			fmt.Printf("Records requested:\t\t%d\n", numberOfRecords)
+			fmt.Printf("Records successfully produced:\t%d\n", successCount)
 
 			break
 
