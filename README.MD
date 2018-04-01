@@ -3,4 +3,5 @@ This is an application written as part of the learning Go experience. It utilise
 ## Application Operation
 1. Type 'go run main.go' at the terminal prompt.
 2. Enter the number of records to be generated, at the following prompt.
-...![alt text](https://github.com/weeksontheweb/markdown-here/raw/master/src/common/images/icon48.png "Input")
+
+...![alt text](https://github.com/weeksontheweb/dummy-record-generator/tree/master/readme-images/input.png "Input")
