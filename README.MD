@@ -9,3 +9,7 @@ This is an application written as part of the learning Go experience. It utilise
 ⋅⋅⋅Entering 'q' or 'Q' at the prompt will quit the application. Entering anything non-numeric, will display the following.
 
 ⋅⋅⋅![Input Message](http://www.weeksontheweb.co.uk/images/readme-images/non-numeric.png)
+
+3. Entering a number will action the application to produce and display the required number of dummy records.
+
+⋅⋅⋅![Output Message](http://www.weeksontheweb.co.uk/images/readme-images/output.png)
