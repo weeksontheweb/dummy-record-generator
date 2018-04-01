@@ -4,4 +4,8 @@ This is an application written as part of the learning Go experience. It utilise
 1. Type 'go run main.go' at the terminal prompt.
 2. Enter the number of records to be generated, at the following prompt.
 
-...![alt text](https://github.com/weeksontheweb/dummy-record-generator/tree/master/readme-images/input.png "Input")
+⋅⋅⋅![alt text](https://github.com/weeksontheweb/dummy-record-generator/tree/master/readme-images/input.png "Input")
+
+⋅⋅⋅Entering 'q' or 'Q' at the prompt will quit the application. Entering anything non-numeric, will display the following.
+
+⋅⋅⋅![alt text](https://github.com/weeksontheweb/dummy-record-generator/tree/master/readme-images/non-numeric.png "Non Numeric Input")
