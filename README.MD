@@ -15,3 +15,33 @@ This is an application written as part of the learning Go experience. It utilise
 
 ⋅⋅⋅![Output Message](http://www.weeksontheweb.co.uk/images/readme-images/output.png)
 
+
+**Enter the number of dummy records ('q' or 'Q' to quit): 2**  
+
+**Record 1**  
+**---------**  
+**Name          Ms. Bridie Runolfsdottir**  
+**Email         dee.pfeffer@reynolds.info**  
+**Street:       56224 Kovacek Rapid**  
+**City:         Leschtown**  
+**Postcode:     67846**  
+**State:        New Mexico**  
+**Country:      Fiji**  
+**Home Phone:   480.225.2051 x0771**  
+**Mobile Phone: (634)655-3867 x30741**  
+
+**Record 2**  
+**---------**  
+**Name          Ms. Miss. Kolby Nitzsche**  
+**Email         drew@walterbashirian.net**  
+**Street:       57324 Alanis Wall**  
+**City:         Halvorsonhaven**  
+**Postcode:     80225-2051**  
+**State:        New Hamphire**  
+**Country:      Bermuda**  
+**Home Phone:   (375)863-3188**  
+**Mobile Phone: 1-852-108-5601**  
+
+**Records requested:                2**  
+**Records successfully produced:    2**
+
