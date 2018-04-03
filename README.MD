@@ -13,9 +13,6 @@ This is an application written as part of the learning Go experience. It utilise
 
 3. Entering a number will action the application to produce and display the required number of dummy records. The application will also display the number of records requested, and the number of successfully created records.
 
-⋅⋅⋅![Output Message](http://www.weeksontheweb.co.uk/images/readme-images/output.png)
-
-
 **Enter the number of dummy records ('q' or 'Q' to quit): 2**  
 
 **Record 1**  
