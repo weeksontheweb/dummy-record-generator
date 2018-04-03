@@ -8,7 +8,7 @@ This is an application written as part of the learning Go experience. It utilise
 
 ⋅⋅⋅Entering 'q' or 'Q' at the prompt will quit the application. Entering anything non-numeric, will display the following.
 
-**Entered number is not numeric. Please retry.**
+**Entered number is not numeric. Please retry.**  
 **Enter the number of dummy records ('q' or 'Q' to quit):**
 
 3. Entering a number will action the application to produce and display the required number of dummy records. The application will also display the number of records requested, and the number of successfully created records.
